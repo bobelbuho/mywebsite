@@ -9,7 +9,10 @@ export const Hero = () => {
     <p className={styles.description}>Je suis développeur web full stack</p>
     <a className={styles.contactBtn} href="mailito:bob.vaz@hotmail.fr">Contactez moi </a>
     </div>
-    <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" />
+    <img src={getImageUrl("hero/heroImage.png")} 
+    alt="Hero image of me" 
+    className={styles.heroImg}
+    />
     <div className={styles.topBlur} />
     <div className={styles.bottomBlur} />
   </section>
