@@ -1,5 +1,6 @@
 import styles from './App.module.css';
 import { About } from './componets/About/About';
+import { Experience } from './componets/Experiences/Experience';
 import { Hero } from './componets/Hero/Hero';
 import { Navbar } from './componets/Navbar/Navbar';
 
@@ -8,6 +9,7 @@ function App() {
     <Navbar />
     <Hero />
     <About />
+    <Experience />
  </div>
 }
 
