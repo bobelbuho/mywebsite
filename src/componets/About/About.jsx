@@ -5,7 +5,7 @@ import { getImageUrl } from '../../utils'
 export const About = () => {
     return (
     <section className={styles.container} id="about">
-        <h2 className={styles.title}>About</h2>
+        <h2 className={styles.title}>A propos</h2>
         <div className={styles.content}>
             <img
             src={getImageUrl("about/aboutImage.png")}
@@ -17,7 +17,7 @@ export const About = () => {
                     <div className={styles.auboutItemText}>
                         <h3>Frontend Developpeur</h3>
                         <p>
-                            Bonjour, je suis developpeur frontend avec une passion pour le design et l'expérience utilisateur.
+                            Je suis developpeur frontend avec une passion pour le design et l'expérience utilisateur.
                         </p>
                     </div>
                 </li>
