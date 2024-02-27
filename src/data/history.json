@@ -4,26 +4,24 @@
       "organisation": "Développeur web full stack",
       "startDate": "2023",
       "endDate": " ",
-      "experiences": ["Certification "],
-      "imageSrc": "history/google.png"
+      "experiences": ["Certification d'école STUDI "],
+      "imageSrc": "history/diploma.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Formation certifiante d’état",
+      "organisation": "chez STUDI",
+      "startDate": "2021",
+      "endDate": "2023",
+      "experiences": ["Maîtrise des langages HTML5, CSS3 et JavaScript et utilisation de frameworks", 
+      "Expérience dans la création et la gestion de bases de données relationnelles et non relationnelles"],
+      "imageSrc": "history/formation.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Baccalauréat Professionnel Vente ",
+      "organisation": "Lycée Jean Perrin",
+      "startDate": "2014",
+      "endDate": "",
+      "experiences": [ ],
+      "imageSrc": "history/diploma.png"
     }
   ]
