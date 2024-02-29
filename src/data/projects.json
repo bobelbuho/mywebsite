@@ -4,7 +4,7 @@
       "imageSrc": "projects/project.png",
       "description": "Ce projet represente l'home page de facebook.",
       "skills": ["HTML", "CSS", "Javascript"],
-      "demo": "https://www.example.com",
+      "demo": "../projects exemple/facebook/index.html",
       "source": "https://www.github.com"
     },
     {
