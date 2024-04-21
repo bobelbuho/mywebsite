@@ -1,19 +1,19 @@
 [
     {
-      "title": "Facebook homepage",
-      "imageSrc": "projects/project.png",
-      "description": "Ce projet represente l'home page de facebook.",
+      "title": "Spotify page",
+      "imageSrc": "projects/spotify.png",
+      "description": "Dans ce projet, je reproduis une page de Spotify.",
       "skills": ["HTML", "CSS", "Javascript"],
       "demo": "../projects exemple/facebook/index.html",
-      "source": "https://www.github.com"
+      "source": "https://github.com/bobelbuho/Spotify-page"
     },
     {
-      "title": "Project 2",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Site Disney",
+      "imageSrc": "projects/disney.png",
+      "description": "Je réalise le site streaming de Disney",
+      "skills": ["React", "Vite", "Tailwind"],
+      "demo": "#",
+      "source": "https://github.com/bobelbuho/disney-clone"
     },
     {
       "title": "Project C",
